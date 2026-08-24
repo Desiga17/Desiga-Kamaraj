@@ -293,9 +293,8 @@
         "padding-block-end": 48
       }
     },
-    "section_XKDPbW": {
+    "section_JLnqPd": {
       "type": "section",
-      "disabled": true,
       "name": "t:names.custom_section",
       "settings": {
         "content_direction": "column",
@@ -328,8 +327,8 @@
     }
   },
   "order": [
+    "section_JLnqPd",
     "hero_jVaWmY",
-    "product_list_fa6P9H",
-    "section_XKDPbW"
+    "product_list_fa6P9H"
   ]
 }

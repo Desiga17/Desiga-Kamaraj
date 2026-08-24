@@ -43,17 +43,6 @@
         "padding-block-end": 15
       }
     },
-    "custom_liquid_cq6jUr": {
-      "type": "custom-liquid",
-      "name": "t:names.custom_liquid",
-      "settings": {
-        "custom_liquid": "",
-        "background_color": "",
-        "section_width": "page-width",
-        "padding-block-start": 0,
-        "padding-block-end": 0
-      }
-    },
     "header_section": {
       "type": "header",
       "blocks": {
@@ -140,7 +129,6 @@
   },
   "order": [
     "header_announcements_9jGBFp",
-    "custom_liquid_cq6jUr",
     "header_section"
   ]
 }
